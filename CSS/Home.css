@@ -1,0 +1,59 @@
+
+
+nav ul{
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-between;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.6) 
+   }
+
+nav ul li{
+    list-style-type: square;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    }
+
+figcaption{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: rgba(173, 11, 11, 0.6);
+    }
+
+h4{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: rgba(173, 11, 11, 0.6);
+    }
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: rgba(173, 11, 11, 0.6);
+    }
+
+
+    button{
+        margin: 20px;
+        padding: 20px;
+        font-size: 30px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: 0.5s;
+        }

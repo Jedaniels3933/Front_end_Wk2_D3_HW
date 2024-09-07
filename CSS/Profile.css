@@ -1,0 +1,62 @@
+nav ul{
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-between;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.6) 
+   }
+
+nav ul li{
+    list-style-type: square;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    }
+
+    header{
+        background: url(../Assets/Dem.jpg) no-repeat center center/cover;
+        height: 200vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        position-anchor: center;
+        }
+image{
+    size-adjust: 80%;
+}
+
+figcaption{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: rgba(173, 11, 11, 0.6);
+    }
+
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(189, 219, 15);
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+    background: rgba(54, 41, 41, 0.6);
+    }
+
+    button{
+        margin: 20px;
+        padding: 20px;
+        font-size: 30px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: 0.5s;
+        }
+
+      
